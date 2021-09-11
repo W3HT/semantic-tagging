@@ -13,7 +13,7 @@ Revise some existing HTML code to use semantic tags where appropriate
 
 ## Screen Shot
 
-![Here is a screen shot of the home page.](/semantic-tagging/screencapture-file-C-Users-matth-OneDrive-Documents-boot-camp-homework-semantic-tagging-index-html-2021-09-10-20_20_49.png)
+![Here is a screen shot of the home page.](https://github.com/W3HT/semantic-tagging/blob/main/screencapture-file-C-Users-matth-OneDrive-Documents-boot-camp-homework-semantic-tagging-index-html-2021-09-10-20_20_49.png?raw=true)
 
 [Horiseon Website](https://w3ht.github.io/semantic-tagging/)  
 
